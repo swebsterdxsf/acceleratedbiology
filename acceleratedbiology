@@ -1,0 +1,136 @@
+index.html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>9th Grade Biology - Ms. Webster</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        header {
+            background-color: #28a745;
+            color: white;
+            padding: 15px 0;
+            text-align: center;
+        }
+        nav {
+            background-color: #333;
+            color: white;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        h2 {
+            border-bottom: 2px solid #28a745;
+            padding-bottom: 5px;
+            color: #333;
+        }
+        footer {
+            text-align: center;
+            background-color: #28a745;
+            color: white;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+        .tips {
+            background: #f0f9f0;
+            border-left: 5px solid #28a745;
+            padding: 10px;
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>9th Grade Biology - Ms. Webster</h1>
+    <p>Your guide to mastering biology and NGSS concepts!</p>
+</header>
+
+<nav>
+    <a href="#resources">Resources</a>
+    <a href="#study-guide">Study Guide</a>
+    <a href="#interactive">Interactive Tools</a>
+    <a href="#tips">Tips for Success</a>
+</nav>
+
+<div class="container">
+    <section id="resources">
+        <h2>Biology Resources</h2>
+        <ul>
+            <li><a href="https://www.nsta.org/ngss" target="_blank">NGSS Standards</a></li>
+            <li><a href="https://www.khanacademy.org/science/biology" target="_blank">Khan Academy - Biology</a></li>
+            <li><a href="https://www.biointeractive.org/" target="_blank">HHMI BioInteractive</a></li>
+            <li><a href="https://phet.colorado.edu/" target="_blank">PhET Interactive Simulations</a></li>
+        </ul>
+    </section>
+
+    <section id="study-guide">
+        <h2>Study Guide</h2>
+        <p>Here’s a breakdown of key topics for success in 9th-grade biology:</p>
+        <ul>
+            <li><strong>Cell Structure and Function:</strong> Explore the organelles and their roles.</li>
+            <li><strong>Genetics:</strong> Understand DNA, RNA, and inheritance patterns.</li>
+            <li><strong>Ecology:</strong> Study ecosystems, energy flow, and biodiversity.</li>
+            <li><strong>Evolution:</strong> Learn about natural selection and species adaptations.</li>
+        </ul>
+    </section>
+
+    <section id="interactive">
+        <h2>Interactive Tools</h2>
+        <p>Boost your learning with these interactive tools:</p>
+        <ul>
+            <li><a href="https://www.cellsalive.com/" target="_blank">Cells Alive - Virtual Cell Models</a></li>
+            <li><a href="https://www.genome.gov/genetics-glossary" target="_blank">Genetics Glossary</a></li>
+            <li><a href="https://www.classroomclipboard.com/" target="_blank">Classroom Clipboard - Biology Quizzes</a></li>
+        </ul>
+    </section>
+
+    <section id="tips">
+        <h2>Tips for Success</h2>
+        <div class="tips">
+            <h3>Stay Curious</h3>
+            <p>Biology is all around you! Ask questions and explore your surroundings.</p>
+        </div>
+        <div class="tips">
+            <h3>Stay Organized</h3>
+            <p>Use a planner to keep track of assignments and study schedules.</p>
+        </div>
+        <div class="tips">
+            <h3>Practice Regularly</h3>
+            <p>Review notes daily and practice quizzes to reinforce learning.</p>
+        </div>
+    </section>
+</div>
+
+<footer>
+    <p>&copy; 2024 Ms. Webster - 9th Grade Biology. All rights reserved.</p>
+    <p>Contact: <a href="mailto:ms.webster@school.org" style="color: white;">ms.webster@school.org</a></p>
+</footer>
+
+</body>
+</html>
